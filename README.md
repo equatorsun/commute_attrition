@@ -1,0 +1,3 @@
+As a recruiter, I often see companies struggle to attract candidates to onsite jobs, especially in Silicon Valley where remote work became more common since the pandemic. However, from a human resources standpoint, I’m curious if commute time really has any impact on the turnover rates. Do people who live further away from the office tend to have a higher turnover rate?
+
+Although I don’t have access to all the confidential HR data from every single company to generalize, I can investigate the employee retention factors of IBM using Kaggle’s open source data. That would narrow down my question to “Do people who live further away from the IBM office tend to have a higher turnover rate?” I’m guessing that it does at a certain threshold, but let’s test it out. 
